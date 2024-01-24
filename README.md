@@ -1,1 +1,1 @@
-# Code-way
+# CodeWay_Internship Tasks
